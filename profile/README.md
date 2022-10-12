@@ -1,8 +1,5 @@
 ## Hi there 👋 We are OpenO1 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeyaTsu&layout=compact)](#Statistics)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZeyaTsu&show_icons=true&include_all_commits=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&count_private=true)](#Statistics)
-
 <!--
 
 **Here are some ideas to get you started:**
