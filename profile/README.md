@@ -1,12 +1,34 @@
-## Hi there 👋 We are OpenO1 
+# Hi there 👋 We are OpenO1 
+Here we'll post our lastest projects, news, infos and more!
 
-<!--
+# Lastest news
+### No news
 
-**Here are some ideas to get you started:**
+# About us
+We are a French organisation launched in October 2022! <br />
+We love programming, making useful programs & Artificial Intelligences <br />
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Our projects
+
+## Working on 
+* Translating Alpha.py to LUA | <a href="https://github.com/YourLocalMusk">Your Local Musk</a>
+* pkgs, poticha | <a href="youtube.com">ZeyaTsu</a>
+* AnimeList Terminal | <a href="https://github.com/Loulou-Senpai">Loulou-Senpai</a>
+
+## Projects
+* pkgs, an alternative to MEE6 with all the features free.
+* FPM, aka FileProject Manager.
+
+## AI
+* Emoless (chatbot)
+* WumAI (chatbot)
+
+## Modules
+* Alpha.py module
+
+
+
+# People
+### <a href="youtube.com">ZeyaTsu</a>
+### <a href="https://github.com/YourLocalMusk">Your Local Musk</a>
+### <a href="https://github.com/Loulou-Senpai">Loulou-Senpai</a>
