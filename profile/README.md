@@ -1,4 +1,5 @@
 # Hi there 👋 We are OpenO1 
+## https://openo1.github.io/
 Here we'll post our lastest projects, news, infos and more!
 
 # Lastest news
