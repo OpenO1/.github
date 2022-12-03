@@ -13,7 +13,7 @@ We love programming, making useful programs & Artificial Intelligences <br />
 
 ## Working on 
 * Translating Alpha.py to LUA | <a href="https://github.com/YourLocalMusk">Your Local Musk</a>
-* pkgs, poticha | <a href="youtube.com">ZeyaTsu</a>
+* pkgs, poticha | <a href="https://github.com/ZeyaTsu">ZeyaTsu</a>
 * AnimeList Terminal | <a href="https://github.com/Loulou-Senpai">Loulou-Senpai</a>
 
 ## Projects
