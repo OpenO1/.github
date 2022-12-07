@@ -30,6 +30,7 @@ We love programming, making useful programs & Artificial Intelligences <br />
 
 
 # People
-### <a href="youtube.com">ZeyaTsu</a>
+### <a href="https://github.com/ZeyaTsu">ZeyaTsu</a>
 ### <a href="https://github.com/YourLocalMusk">Your Local Musk</a>
 ### <a href="https://github.com/Loulou-Senpai">Loulou-Senpai</a>
+### <a href="https://github.com/SIMONLEGOAT">SIMONLEGOAT</a>
